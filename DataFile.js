@@ -20,26 +20,26 @@ global.symb2 = '▎ █' // 👈 Enter Any ▬▓▌▎■
 global.symb3 = '▬' // 👈 Enter Any ▅ ▂ ▁ ▊
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = ` *Hi 🥰 I m*
-*ＮＯＩＺ Ξ*
-*I am 16 years old developer...*
-*From Sri Lanka 🇱🇰*
-*I am a Learning.*
+*S A FΞ*
+*عمري 15 سنة وانا كبيرة لست صغيرة*
+*أنا من المغرب وليس كندا هاهاها*
+*أنا رسامة محترفة*
 *Not more..*
 *Also I am Student*
 *Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
-global.owner =  ['+94711502119'] //👈  Enter Your number
-global.premium =  ['+94711502119'] //👈  Enter Your number
-global.ownernomer = '+94711502119' //👈  Enter Your number
-global.ownername = 'ZENOI' //👈 Enter Your name
-global.botname = 'ＧＡＲＦＩＥＬＤ ＢＯＴ' //👈 Enter Your Bot name
+global.owner =  ['+212635185708'] //👈  Enter Your number
+global.premium =  ['+212635185708'] //👈  Enter Your number
+global.ownernomer = '+212635185708' //👈  Enter Your number
+global.ownername = 'SAFAA' //👈 Enter Your name
+global.botname = 'S A F A A ＢＯＴ' //👈 Enter Your Bot name
 global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 𝖦𝖺𝗋𝖿𝗂𝖾𝗅𝖽 𝖡𝗈𝗍' //👈 Enter Your Name
-global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
+global.ig = 'https://www.get-wish.cf/hokm/quiz/f07014' // 👈 You Can change this your choice
 global.region = 'India, South India, Kerala' // 👈 You Can change this your choice
-global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
+global.sc = 'https://www.get-wish.cf/hokm/quiz/f07014'
 global.fbt = 'Follw Us ℹ️' // 👈 Enter (Subscribe/Follow/Like now)
-global.myweb = 'https://www.facebook.com/garfieldbots/'// 👈 Enter your Social media link to follow now button
-global.welcome = '*Welcome To The Group 🦋*' // 👈 You Can change this your choice
-global.bye = '*Bye bye Mother fucker 🐼*' // 👈 You Can change this your choice
+global.myweb = 'https://www.get-wish.cf/hokm/quiz/f07014'// 👈 Enter your Social media link to follow now button
+global.welcome = '*مرحبا بك يا جديدة أتمنى أن تكوني جيدة هاهاها 🦋*' // 👈 You Can change this your choice
+global.bye = '*لقد فقدنا شخصا مجنونا 🐼*' // 👈 You Can change this your choice
 global.packname = 'GARFIELD-BOTv8'  // 👈 You Can change this your choice 
 global.author = 'NOIZE DEVELOPMENT' // 👈 You Can change this your choice 
 global.sessionName = 'session' // 👈 You Can change this your choice
